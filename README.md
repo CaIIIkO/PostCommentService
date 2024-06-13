@@ -32,7 +32,7 @@
 Для остановки и удаления контейнеров используйте команду `make docker.down`
 
 ## API
-API описано в в директории [graph](graph\schema.graphql)
+API описано в в директории [graph](graph/schema.graphql)
 
 Протестировать API можно с помощи Postman (New -> GraphQL -> Schema -> import -> [schema.graphql](.\graph\schema.graphql))
 
