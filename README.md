@@ -34,7 +34,7 @@
 ## API
 API описано в в директории [graph](graph/schema.graphql)
 
-Протестировать API можно с помощи Postman (New -> GraphQL -> Schema -> import -> [schema.graphql](.\graph\schema.graphql))
+Протестировать API можно с помощи Postman (New -> GraphQL -> Schema -> import -> [schema.graphql](graph/schema.graphql))
 
 Для работы с GraphQL была исползована библиоткека [gqlgen](https://gqlgen.com/)
 
